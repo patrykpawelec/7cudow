@@ -1,1 +1,1 @@
-# 7cudow
+# 7cudow - kalkulator
